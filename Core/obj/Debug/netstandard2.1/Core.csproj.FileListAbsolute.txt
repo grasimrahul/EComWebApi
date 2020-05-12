@@ -1,0 +1,8 @@
+D:\UnitTest\Projects\AngularProjects\Demo\skinet\Core\bin\Debug\netstandard2.1\Core.deps.json
+D:\UnitTest\Projects\AngularProjects\Demo\skinet\Core\bin\Debug\netstandard2.1\Core.dll
+D:\UnitTest\Projects\AngularProjects\Demo\skinet\Core\bin\Debug\netstandard2.1\Core.pdb
+D:\UnitTest\Projects\AngularProjects\Demo\skinet\Core\obj\Debug\netstandard2.1\Core.csprojAssemblyReference.cache
+D:\UnitTest\Projects\AngularProjects\Demo\skinet\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+D:\UnitTest\Projects\AngularProjects\Demo\skinet\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+D:\UnitTest\Projects\AngularProjects\Demo\skinet\Core\obj\Debug\netstandard2.1\Core.dll
+D:\UnitTest\Projects\AngularProjects\Demo\skinet\Core\obj\Debug\netstandard2.1\Core.pdb

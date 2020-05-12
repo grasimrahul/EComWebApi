@@ -1,0 +1,11 @@
+D:\UnitTest\Projects\AngularProjects\Demo\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csprojAssemblyReference.cache
+D:\UnitTest\Projects\AngularProjects\Demo\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+D:\UnitTest\Projects\AngularProjects\Demo\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.cs
+D:\UnitTest\Projects\AngularProjects\Demo\skinet\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.deps.json
+D:\UnitTest\Projects\AngularProjects\Demo\skinet\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.dll
+D:\UnitTest\Projects\AngularProjects\Demo\skinet\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.pdb
+D:\UnitTest\Projects\AngularProjects\Demo\skinet\Infrastructure\bin\Debug\netstandard2.1\Core.dll
+D:\UnitTest\Projects\AngularProjects\Demo\skinet\Infrastructure\bin\Debug\netstandard2.1\Core.pdb
+D:\UnitTest\Projects\AngularProjects\Demo\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CopyComplete
+D:\UnitTest\Projects\AngularProjects\Demo\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
+D:\UnitTest\Projects\AngularProjects\Demo\skinet\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb

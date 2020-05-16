@@ -56,3 +56,5 @@ D:\UnitTest\Projects\AngularProjects\Demo\skinet\API\bin\Debug\netcoreapp3.0\Cor
 D:\UnitTest\Projects\AngularProjects\Demo\skinet\API\bin\Debug\netcoreapp3.0\Infrastructure.dll
 D:\UnitTest\Projects\AngularProjects\Demo\skinet\API\bin\Debug\netcoreapp3.0\Infrastructure.pdb
 D:\UnitTest\Projects\AngularProjects\Demo\skinet\API\bin\Debug\netcoreapp3.0\Core.pdb
+D:\UnitTest\Projects\AngularProjects\Demo\skinet\API\bin\Debug\netcoreapp3.0\AutoMapper.dll
+D:\UnitTest\Projects\AngularProjects\Demo\skinet\API\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
